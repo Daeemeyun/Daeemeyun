@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Daeemeyun
-- 👀 I’m interested in finding my path in the tech industry!
-- 🌱 I’m currently learning the fundamentals of code as well as more in depth stuff, such as courses on comp sci and full-stack, etc.
-- 💞️ I’m looking to collaborate on little projects and ideas that would be fun!
+- 👀 I’m currenty looking for opportunities to expand my learning capacity and increase my knowledge in the world of technology.
+- 🌱 I’m still an undergraduate but I believe in pushing out of my comfort zone in order to learn.
 - 📫 How to reach me... Email: tohdamien88@gmail.com
 
 <!---
